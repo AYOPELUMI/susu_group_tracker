@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="SusuGroupTracker.Cli/SusuGroupTracker.Cli.csproj" />
+  <Project Path="SusuGroupTracker.Core/SusuGroupTracker.Core.csproj" />
+  <Project Path="SusuGroupTracker.Tests/SusuGroupTracker.Tests.csproj" />
+</Solution>
